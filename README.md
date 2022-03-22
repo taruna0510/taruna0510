@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @taruna0510
+- 👀 I’m interested in data science, IoT, and education
+- 🌱 I’m currently scholar at bandung institute of technology
+- 📫 you can reach me at muhamad.taruna@outlook.co.id 
