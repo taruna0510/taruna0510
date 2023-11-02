@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @taruna0510
+- 👋 Hi, I’m Taruna
 - 👀 I’m interested in data science, IoT, and education
-- 🌱 I’m currently scholar at bandung institute of technology
+- 🌱 I’m Electrical Engineer graduated from bandung institute of technology
+- 🧑‍💼 I have experience working as Data Scientist in FMCG field
 - 📫 you can reach me at muhamad.taruna@outlook.co.id 
