@@ -2,4 +2,5 @@
 - 👀 I’m interested in data science, IoT, and education
 - 🌱 I’m Electrical Engineer graduated from bandung institute of technology
 - 🧑‍💼 I have experience working as Data Scientist in FMCG field
+- 🌍 Kindly to check my web-portofolio at https://muhamad-tarunac.cloud
 - 📫 you can reach me at muhamad.taruna@outlook.co.id 
